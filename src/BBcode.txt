@@ -1,0 +1,26 @@
+clear x;
+clear y;
+clear z;
+incr x;
+incr z;
+incr z;
+x = x + Z + Z;
+clear five;
+five = x;
+clear four;
+four = five;
+decr four;
+while x not y do;
+    if x == five then;
+        decr x;
+    else if x == four then;
+        decr x;
+    else;
+    decr x;
+        while x equals z do;
+            print x;
+            decr x;
+        end;
+    end if;
+end;
+
